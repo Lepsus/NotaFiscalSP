@@ -1,5 +1,5 @@
 {
-    "name": "kaleu62/notafiscalsp",
+    "name": "lepsus/notafiscalsp",
     "description": "Integração com o WebService da Prefeitura de São Paulo para emissão de NFS e NTFS utilizando a API da nota do milhão",
     "type": "library",
     "license": "MIT",
@@ -26,6 +26,10 @@
         {
             "name": "Kaio Valdemar",
             "email": "kaio@e-htl.com.br"
+        },
+        {
+            "name": "Felipe Graca",
+            "email": "fgraca@lepsus.com.br"
         }
     ],
     "autoload": {
